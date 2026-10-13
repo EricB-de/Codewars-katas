@@ -1,0 +1,1 @@
+export const grow = (arr: number[]): number => arr.reduce((product,item)=>product*item)
